@@ -1,5 +1,5 @@
 {
-  "name": "mage4/magento-run-sql",
+  "name": "mage4/magento2-run-sql",
   "description": "Magento extension to run SQL queries directly from console command.",
   "require": {
       "php": ">=7.2",

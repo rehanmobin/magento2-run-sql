@@ -5,7 +5,7 @@
 ### Install via composer
 
 ```
-composer require mage4/magento-run-sql
+composer require mage4/magento2-run-sql
 
 php bin/magento setup:upgrade
 php bin/magento setup:di:compile
